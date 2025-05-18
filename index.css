@@ -6,9 +6,6 @@ body {
 body:link {
 	color: CornflowerBlue;
 }
-body:hover {
-	color: DeepSkyBlue;
-}
 body:visited {
 	color: DarkSlateBlue;
 }
