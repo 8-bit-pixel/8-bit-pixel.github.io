@@ -2,3 +2,13 @@ h1 {
 	font-family: "Lucida Console", "Courier New", monospace;
 	color: black;
 }
+
+a:link {
+	color: #303030;
+}
+a:hover {
+	color: #505050;
+}
+a:visited {
+	color: #404040;
+}
