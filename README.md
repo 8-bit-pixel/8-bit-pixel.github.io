@@ -1,1 +1,1 @@
-A webiste 👍
+A website 👍
