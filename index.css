@@ -4,11 +4,11 @@ h1 {
 }
 
 a:link {
-	color: #303030;
+	color: CornflowerBlue;
 }
 a:hover {
-	color: #505050;
+	color: DeepSkyBlue;
 }
 a:visited {
-	color: #404040;
+	color: DarkSlateBlue;
 }
