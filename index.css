@@ -1,14 +1,14 @@
-h1 {
+body {
 	font-family: "Lucida Console", "Courier New", monospace;
 	color: black;
 }
 
-a:link {
+body:link {
 	color: CornflowerBlue;
 }
-a:hover {
+body:hover {
 	color: DeepSkyBlue;
 }
-a:visited {
+body:visited {
 	color: DarkSlateBlue;
 }
